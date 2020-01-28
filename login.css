@@ -1,0 +1,52 @@
+body{
+	max-width: 350px;
+	height: 400px;
+	margin: auto;
+	text-align: center;
+	background-image: url("graphics/b1.jpg");
+	background-color: blue;
+	background-size: cover;
+}
+form{
+	background: black;
+	margin-top: 200px;
+}
+h2{
+	max-width: 40%;
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+	color: blue;
+	background: white;
+	margin-left: 100px;
+}
+input[type="submit"]{
+	width: 40%;
+	height: 40px;
+	color: white;
+	background: blue;
+	border:none;
+	margin:20px;
+	font: bold;
+	box-sizing: border-box;
+
+}
+input[type="text"], input[type="password"]{
+		width: 70%;
+	padding:12px 5px;
+	margin:5px;
+	background: black;
+	border-bottom: dotted;
+	border-color: white;
+	border-top-style: none;
+	border-left: none;
+	border-right: none;
+
+}
+input, select, textarea{
+    color: white;
+}
+
+textarea:focus, input:focus {
+    color: #B22222;
+}

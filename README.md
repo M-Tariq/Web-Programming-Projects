@@ -16,8 +16,8 @@ This is a simple we application of author Tonny Robin.<br>
 ## Sreenshot
 
 <p id="img_cont">
-	<img src="/screenshot/ss.JPG" width = "200" height= "350" hspace=40>
-	<img src="/screenshot/ss.JPG" width = "200" height= "350" hspace=40>
+	<img src="/screenshots/ss.JPG" width = "200" height= "350" hspace=40>
+	<img src="/screenshots/ss.JPG" width = "200" height= "350" hspace=40>
 </p>
 
 If you have any queries or suggestions you can mail me: f158185@nu.edu.pk
